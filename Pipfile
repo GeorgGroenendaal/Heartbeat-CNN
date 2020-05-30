@@ -13,6 +13,7 @@ wfdb = "*"
 matplotlib = "*"
 tensorflow = "*"
 tensorflow-datasets = "*"
+scipy = "*"
 
 [requires]
 python_version = "3.8"
